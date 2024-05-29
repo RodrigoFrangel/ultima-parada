@@ -20,7 +20,8 @@ O _food truck_ se move de forma aleatória e secreta, com sua localização diá
 
 - Página inicial com introdução ao food truck e navegação.
 - Seção "Quem Somos" com informações sobre a filosofia e a equipe fictícia do food truck.
-- Botão com link para o cardápio exclusivo.
+- Link para cada prato do cardápio exclusivo.
+- Seção com Depoimentos de pessoas que já foram clientes.
 - Integração com redes sociais.
 
 ## Tecnologias Utilizadas
@@ -35,19 +36,22 @@ O _food truck_ se move de forma aleatória e secreta, com sua localização diá
 ultima-parada-lanches/
 ├── assets/
 │   ├── images/
-│   │   ├── Cogumerda.jpg
+│   │   ├── cogumerda.jpg
 │   │   ├── food-truck.png
-│   │   ├── Meteorida.jpg
-│   │   ├── Nojo.png
-│   │   └── Vômito Vegano.png
+│   │   ├── leitifruta.jpg
+│   │   ├── meteorroida.jpg
+│   │   ├── porsao.jpg
+│   │   ├── tacoco.png
+│   │   └── veganojo.png
 │   ├── logo/
 │   │   ├── logo-cut.png
 │   │   └── logo.png
+│   ├── favicon.png
 │   ├── instagram.png
 │   ├── twitter.png
-├── src/
+├── pages/
 │   ├── cardapio.html
-│   ├── index.html
+├── index.html
 ├── README.md
 └── style.css
 ```
