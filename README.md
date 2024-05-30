@@ -62,6 +62,6 @@ Este projeto foi desenvolvido por:
 
 - Rodrigo Frangel - @RodrigoFrangel
 - Yuri de Oliveira - @github
-- Rafael Dorado - @github
+- Rafael Dourado - @Douradorf
 - Carlos - @github
 - Vinicius - @github
