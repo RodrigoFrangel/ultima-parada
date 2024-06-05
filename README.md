@@ -61,7 +61,7 @@ ultima-parada-lanches/
 Este projeto foi desenvolvido por:
 
 - Rodrigo Frangel - @RodrigoFrangel
-- Yuri de Oliveira - @github
+- Yuri de Oliveira - @YuriOliiv
 - Rafael Dourado - @Douradorf
-- Carlos - @github
-- Vinicius - @github
+- Carlos Eduardo - @Caduu10
+- Vinicius Maldonado - @vinimaldo
