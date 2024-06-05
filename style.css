@@ -54,14 +54,17 @@ nav {
 
 /* MAIN */
 
-#main {
+#main,
+#menu,
+#food {
   background-color: #ecca2f;
   display: flex;
   justify-content: space-around;
   padding: 70px 0;
 }
 
-.main-esq {
+.main-esq,
+.food-esq {
   align-items: center;
   /* border: red solid 2px; */
   display: flex;
@@ -84,9 +87,11 @@ nav {
   text-align: center;
   text-decoration: none;
   width: 200px;
+  margin: 8px;
 }
 
-.main-dir {
+.main-dir,
+.food-esq {
   /* border: red solid 2px; */
   display: flex;
   flex-wrap: wrap;
@@ -274,7 +279,7 @@ footer a {
 
   .main-dir {
     display: none;
-}
+  }
 
   .button {
     /* border: #000000 solid 2px; */
@@ -345,4 +350,25 @@ footer a {
     /* border: #000000 solid 2px; */
     margin: 5px;
   }
+}
+
+/* CARDÁPIO */
+
+#menu {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.food-dir {
+  padding: 10px;
+  padding-right: 50px;
+}
+
+.food-image {
+  border-radius: 4px;
+  box-shadow: 10px 10px 6px #0000005d;
+  width: 500px;
 }
