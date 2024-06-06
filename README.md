@@ -4,11 +4,11 @@ Bem-vindo ao repositório do projeto **Última Parada**, desenvolvido por cinco 
 
 ## Índice
 
-- Sobre o Projeto
-- Funcionalidades
-- Tecnologias Utilizadas
-- Estrutura do Projeto
-- Autores
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Autores](#autores)
 
 ## Sobre o Projeto
 
@@ -19,9 +19,9 @@ O _food truck_ se move de forma aleatória e secreta, com sua localização diá
 ## Funcionalidades
 
 - Página inicial com introdução ao food truck e navegação.
-- Seção "Quem Somos" com informações sobre a filosofia e a equipe fictícia do food truck.
-- Link para cada prato do cardápio exclusivo.
-- Seção com Depoimentos de pessoas que já foram clientes.
+- Link para o **Cardápio** exclusivo, com todos os itens disponíveis.
+- Seção **"Quem Somos"** com informações sobre a filosofia e a equipe fictícia do food truck.
+- Seção com **Depoimentos** de pessoas que já foram clientes.
 - Integração com redes sociais.
 
 ## Tecnologias Utilizadas
@@ -36,21 +36,8 @@ O _food truck_ se move de forma aleatória e secreta, com sua localização diá
 ultima-parada-lanches/
 ├── assets/
 │   ├── images/
-│   │   ├── cogumerda.jpg
-│   │   ├── food-truck.png
-│   │   ├── leitifruta.jpg
-│   │   ├── meteorroida.jpg
-│   │   ├── porsao.jpg
-│   │   ├── tacoco.png
-│   │   └── veganojo.png
 │   ├── logo/
-│   │   ├── logo-cut.png
-│   │   └── logo.png
-│   ├── favicon.png
-│   ├── instagram.png
-│   ├── twitter.png
 ├── pages/
-│   ├── cardapio.html
 ├── index.html
 ├── README.md
 └── style.css
@@ -60,8 +47,7 @@ ultima-parada-lanches/
 
 Este projeto foi desenvolvido por:
 
-- Rodrigo Frangel - @RodrigoFrangel
-- Yuri de Oliveira - @YuriOliiv
-- Rafael Dourado - @Douradorf
-- Carlos Eduardo - @Caduu10
-- Vinicius Maldonado - @vinimaldo
+- Rodrigo Frangel - [@RodrigoFrangel](https://github.com/RodrigoFrangel)
+- Yuri de Oliveira - [@YuriOliiv](https://github.com/YuriOliiv)
+- Rafael Dourado - [@Douradorf](https://github.com/Douradorf)
+- Carlos Eduardo - [@Caduu10](https://github.com/Caduu10)
