@@ -382,6 +382,7 @@ footer a {
 .menu-food {
   /* border: red solid 2px; */
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   margin: 20px 0;
   width: 100%;
@@ -421,4 +422,6 @@ footer a {
 
 .food-card h2 {
   padding: 8px;
+  text-align: center;
+  margin-bottom: 20px;
 }
