@@ -91,7 +91,7 @@ nav {
 }
 
 .main-dir,
-.food-esq {
+.food-dir {
   /* border: red solid 2px; */
   display: flex;
   flex-wrap: wrap;
