@@ -211,6 +211,80 @@ footer a {
   border: #ecca2f solid 1px;
 } */
 
+/* CARDÁPIO */
+
+#menu {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.food-dir {
+  padding: 10px;
+  padding-right: 50px;
+}
+
+.food-image {
+  border-radius: 4px;
+  box-shadow: 10px 10px 6px #0000005d;
+  width: 500px;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  /* border: red solid 2px; */
+}
+
+.menu-food {
+  /* border: red solid 2px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.food-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#menu h1 {
+  /* border: #000000 solid 1px; */
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.food-card img {
+  /* border: #000000 solid 1px; */
+  border-radius: 8px;
+  padding: 0;
+  transition: 200ms ease-out;
+  width: 280px;
+}
+
+.food-card img:hover {
+  box-shadow: 5px 6px 3px #0000003d;
+  transform: translateY(-1px) translateX(-1px);
+  transition: 300ms ease-out;
+}
+
+.food-card img:active {
+  box-shadow: 0px 0px 3px #0000003d;
+  transform: translateY(4px) translateX(4px);
+}
+
+.food-card h2 {
+  padding: 8px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 /* EFEITOS */
 
 .nav-dir a:hover {
@@ -250,10 +324,6 @@ footer a {
 
   .nav-dir a {
     font-size: 0px;
-  }
-
-  .imagem-menu {
-    display: none;
   }
 
   .nav-dir {
@@ -336,7 +406,7 @@ footer a {
     /* border: #000000 solid 2px; */
     display: flex;
     flex-direction: column;
-    font-size: 15px;
+    font-size: 13.5px;
     padding: 18px;
     align-items: center;
   }
@@ -350,78 +420,38 @@ footer a {
     /* border: #000000 solid 2px; */
     margin: 5px;
   }
-}
 
-/* CARDÁPIO */
+  #food {
+    align-items: center;
+    /* border: red solid 2px; */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 20px;
+  }
 
-#menu {
-  align-items: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  padding: 20px;
-}
+  .food-esq,
+  .food-dir {
+    /* border: red solid 2px; */
+    padding: 0;
+    width: 100%;
+  }
 
-.food-dir {
-  padding: 10px;
-  padding-right: 50px;
-}
+  .food-esq img {
+    width: 80%;
+  }
 
-.food-image {
-  border-radius: 4px;
-  box-shadow: 10px 10px 6px #0000005d;
-  width: 500px;
-}
+  .food-dir h1 {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+  }
 
-#menu {
-  display: flex;
-  flex-direction: column;
-  /* border: red solid 2px; */
-}
+  .food-dir h4 {
+    display: none;
+  }
 
-.menu-food {
-  /* border: red solid 2px; */
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  margin: 20px 0;
-  width: 100%;
-}
-
-.food-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-#menu h1 {
-  /* border: #000000 solid 1px; */
-  padding: 20px 0;
-  text-align: center;
-  width: 100%;
-}
-
-.food-card img {
-  /* border: #000000 solid 1px; */
-  border-radius: 8px;
-  padding: 0;
-  transition: 200ms ease-out;
-  width: 280px;
-}
-
-.food-card img:hover {
-  box-shadow: 5px 6px 3px #0000003d;
-  transform: translateY(-1px) translateX(-1px);
-  transition: 300ms ease-out;
-}
-
-.food-card img:active {
-  box-shadow: 0px 0px 3px #0000003d;
-  transform: translateY(4px) translateX(4px);
-}
-
-.food-card h2 {
-  padding: 8px;
-  text-align: center;
-  margin-bottom: 20px;
+  .food-dir p {
+    text-align: justify;
+  }
 }
