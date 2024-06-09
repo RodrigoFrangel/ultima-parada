@@ -68,63 +68,63 @@
       "name": "Moscashake",
       "category": "Sobremesas",
       "image": "moscashake.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 9.0
+      "description": "Desperte sua coragem gastronômica e embarque em uma experiência única com o Moscashake! Este milkshake inovador desafia os limites convencionais, combinando o clássico sabor da baunilha com um toque exótico e intrigante: insetos crocantes e deliciosos. Deixe-se levar por uma jornada de descoberta sensorial enquanto saboreia a cremosidade indulgente do sorvete de baunilha, a sutileza do leite fresco e a doçura natural do mel dourado.",
+      "ingredients": "O Moscashake é uma criação singular e fascinante, destacando-se por sua composição incomum e intrigante. Nesta deliciosa bebida, encontramos uma mistura de ingredientes inusitados, incluindo insetos, que conferem uma experiência sensorial única. No coração deste milkshake está um sorvete de baunilha cremoso e luxuoso, proporcionando uma base refrescante e reconfortante. Acompanhando o sorvete, o leite fresco adiciona uma textura suave e uma cremosidade irresistível. O que torna o Moscashake verdadeiramente distinto são os grilos ou gafanhotos desidratados, cuidadosamente preparados e adicionados à mistura. Esses insetos oferecem uma crocância delicada e um sabor intrigante, elevando a experiência gustativa a novas alturas. Para adoçar, o mel dourado é incorporado, trazendo um toque de doçura natural que harmoniza os sabores da baunilha e dos insetos. E para intensificar ainda mais o aroma e o sabor característicos da baunilha, a essência de baunilha é adicionada, completando essa sinfonia de sabores. O resultado final é um milkshake verdadeiramente cativante, que desafia as convenções culinárias e convida os paladares a uma jornada de descoberta e prazer.",
+      "price": "24,89"
     },
     {
       "id": "ornitoburguer",
       "name": "Ornitoburguer",
       "category": "Lanches",
       "image": "ornitoburguer.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 11.0
+      "description": "Descubra uma experiência gastronômica única e ousada com nosso exclusivo Hambúrguer de Ornitorrinco. Este não é um hambúrguer comum, é uma jornada culinária que desperta os sentidos e desafia o convencional.",
+      "ingredients": "Um delicioso hambúrguer suculento e rico em sabor, a carne de ornitorrinco é a estrela deste prato, para dar um toque delicadanmente crocante e repletos de proteína, os grilos adicionam uma textura única e um toque de ousadia e finalizando com folhas de plantas exóticas cuidadosamente selecionadas para complementar perfeitamente os sabores audaciosos deste prato.",
+      "price": "56,00"
     },
     {
-      "id": "pizza-do-conhecimento",
+      "id": "pizzaconhecimento",
       "name": "Pizza do Conhecimento",
       "category": "Pizzas",
       "image": "pizza-conhecimento.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 20.0
+      "description": "Esta pizza não é apenas uma refeição; é uma viagem ao desconhecido, uma exploração dos sentidos e uma celebração das tradições espirituais da Amazônia. Cada ingrediente convida você a descobrir novos sabores e conexões profundas com a natureza e o espírito.",
+      "ingredients": "A base desta pizza é preparada com uma mistura especial de farinha de mandacaru. O molho principal é uma deliciosa infusão de ayahuasca. Entre seus ingredientes, encontram-se delicadas fatias de cogumelos Psilocybe cubensis, queijo artesanal feito com leite de alpaca, pétalas de flores de jasmim e lavanda, raspas de trufas negras da Amazônia e um toque de Mel de Jataí.",
+      "price": "71,90"
     },
     {
       "id": "poopcream",
       "name": "Poopcream",
       "category": "Sobremesas",
       "image": "poopcream.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 7.0
+      "description": "Prepare-se para uma explosão de sabor que vai mexer com seus sentidos! Nosso sorvete de chocolate é tão irresistivelmente rico e cremoso que você vai querer dar um mergulho direto na indulgência. Feito com os melhores ingredientes e o mais puro cacau, cada colherada é uma viagem ao paraíso do chocolate. Seja você um amante de sobremesas ou um explorador de novos sabores exóticos.",
+      "ingredients": "Nosso sorvete é feito com leite fresco, proporcionando uma textura cremosa e suave que derrete na boca. Utilizamos cacau de alta qualidade diretande do Curdistão, cuidadosamente selecionados na fazenda 2 garotas para garantir um sabor intenso e autêntico de chocolate Curdo, defumado para adicionar profundidade de sabor or último, mas não menos importante, cada lote é preparado com uma generosa porção de amor e paixão pela arte da fabricação de sorvetese que proporcionam uma sensação levemente anestésica na boca.",
+      "price": "15,00"
     },
     {
       "id": "sodaceto",
       "name": "Sodaceto",
       "category": "Bebidas",
       "image": "sodaceto.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 5.5
+      "description": "",
+      "ingredients": "O inovador refrigerante Sodaceto que traz uma novidadeem sua fabricação e um sabor sem limites. Delicados ovos de insetos são cuidadosamente selecionados de espécies específicas conhecidas por sua qualidade e sabor únicos. Esses ovos são então habilmente infundidos em uma base de destilado premium, cuidadosamente escolhido por sua suavidade e capacidade de realçar os sabores delicados dos ingredientes, juntando em uma soda que acaba dando um contraste magnifico no sabor.",
+      "price": "5,70"
     },
     {
       "id": "tacoco",
       "name": "Tacoco",
       "category": "Tacos",
       "image": "tacoco.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 9.5
+      "description": "Você acha que já viveu aventuras extremas? Espere até provar o Tacoco! Prepare-se para uma explosão de sabores que fará seu estômago cantar em línguas estranhas. E se você sobreviver, terá uma história hilária para contar - ou pelo menos uma desculpa para ficar em casa amanhã!",
+      "ingredients": "Seus ingredientes incluem a infame Pimenta Fantasma, conhecida por sua ardência extrema. Adicionados a ela estão uma variedade secreta de feijões fermentados e um molho especial, cuja combinação de ingredientes picantes e ácidos promete consequências catastróficas para o estômago. O Guacamole, com sua mistura secreta de ervas e especiarias, é famoso não apenas por seu sabor, mas pelos efeitos inesperados que causa. Não se pode esquecer da carne de jacaré, trazendo um toque exótico, e do queijo de cabra especialmente envelhecido, cuja textura e sabor intensos complementam a experiência única do Tacoco.",
+      "price": "25,90"
     },
     {
       "id": "veganojo",
       "name": "Veganojo",
       "category": "Pizzas",
       "image": "veganojo.png",
-      "description": "texto",
-      "ingredients": "texto",
-      "price": 18.0
+      "description": "Uma criação vegana que costuma proporcionar um detox violento. Apesar de sua aparência repulsiva e sabor perturbador, é conhecida por sua capacidade de eliminar até os chicletes engolidos na infância.",
+      "ingredients": "Sua base é uma mistura robusta de farinha integral e uma pitada de carvão ativado. O molho, uma densa fusão de espinafre, couve e algas marinhas, confere-lhe a famosa cor verde-nojo. Uma mescla peculiar de pepinos, rabanetes e cenouras é submetida a uma fermentação em salmoura de vinagre de maçã e alho, antes de ser triturada e espalhada sobre a massa, criando uma camada densa e de sabor forte sob o molho. E como toque final, uma generosa polvilhada de pó de spirulina, uma alga super nutritiva mas com gosto de vômito. Sendo sincero, não sabemos como vocês aguentam comer isso.",
+      "price": "99,90"
     }
   ]
 }

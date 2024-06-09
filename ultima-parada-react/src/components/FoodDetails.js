@@ -26,7 +26,7 @@ class FoodDetails extends React.Component {
     const imageSrc = details.image ? require(`../assets/images/food/${details.image}`) : '';
 
     return (
-      <section id='food'>
+      <>
         <div className='food-esq'>
           {details.image &&
             <img
@@ -42,7 +42,7 @@ class FoodDetails extends React.Component {
           <p>{details.ingredients}</p>
           <h1>R${details.price}</h1>
         </div>
-      </section>
+      </>
     );
   }
 }

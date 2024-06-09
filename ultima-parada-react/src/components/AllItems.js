@@ -6,9 +6,9 @@ class AllItems extends React.Component {
   render() {
     return (
       <>
-        {food.map((item, key) => (
+        {food.map((item) => (
           <FoodCard
-            id={key.name}
+            foodId={item.id}
             foodImage={item.image}
             foodName={item.name}
             imageAlt={item.alt}

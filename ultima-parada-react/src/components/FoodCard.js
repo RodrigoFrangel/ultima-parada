@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 
 class FoodCard extends React.Component {
   render() {
-    const { foodImage, imageAlt, foodName } = this.props;
+    const { foodId, foodImage, imageAlt, foodName } = this.props;
 
     return (
       <>
         <div class="food-card">
-          <Link to="/:id">
+        <Link to={`/food/${foodId}`}>
             <img
               src={foodImage}
               className="imagem-menu"
