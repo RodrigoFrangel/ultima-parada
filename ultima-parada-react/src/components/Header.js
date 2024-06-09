@@ -6,20 +6,20 @@ class Header extends React.Component {
     return (
       <header>
         <nav>
-          <div class="nav-esq">
-            <a href="index.html">
+          <div className="nav-esq">
+            <a href="/">
               <img
                 src={ logo }
-                class="logo-nav"
+                className="logo-nav"
                 alt="Logo Última Parada"
               />
             </a>
           </div>
-          <div class="nav-dir">
-            <a href="index.html">Início</a>
-            <a href="pages/cardapio.html">Cardápio</a>
-            <a href="#about">Quem Somos</a>
-            <a href="#feedback">Depoimentos</a>
+          <div className="nav-dir">
+            <a href="/">Início</a>
+            <a href="/menu">Cardápio</a>
+            <a href="/#about">Quem Somos</a>
+            <a href="/#feedback">Depoimentos</a>
           </div>
         </nav>
       </header>

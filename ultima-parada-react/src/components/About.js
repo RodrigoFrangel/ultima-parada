@@ -5,14 +5,14 @@ class About extends React.Component {
   render() {
     return (
       <section id="about">
-        <div class="about-esq">
+        <div className="about-esq">
           <img
             src={ foodTruck }
-            class="about-image"
+            className="about-image"
             alt="Imagem ilustrativa mostrando o food truck"
           />
         </div>
-        <div class="about-dir">
+        <div className="about-dir">
           <h1>Quem Somos</h1>
           <br />
           <p>

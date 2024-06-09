@@ -6,10 +6,10 @@ class Footer extends React.Component {
   render() {
     return (
       <footer>
-        <div class="footer-esq">
+        <div className="footer-esq">
           <span>&#169; 2024 Última Parada. Todos os direitos reservados.</span>
         </div>
-        <div class="footer-dir">
+        <div className="footer-dir">
           <a href="_blank">
             <img src={ instagram } alt="Ícone do Instagram" />
           </a>
