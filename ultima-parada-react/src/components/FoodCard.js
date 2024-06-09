@@ -1,4 +1,5 @@
-import React from "react";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 class FoodCard extends React.Component {
   render() {
@@ -7,13 +8,13 @@ class FoodCard extends React.Component {
     return (
       <>
         <div class="food-card">
-          {/* <a href="cesio137.html"> */}
-          <img
-            src={foodImage}
-            className="imagem-menu"
-            alt={imageAlt}
-          />
-          {/* </a> */}
+          <Link to="/:id">
+            <img
+              src={foodImage}
+              className="imagem-menu"
+              alt={imageAlt}
+            />
+          </Link>
           <h2>
             {foodName}
           </h2>

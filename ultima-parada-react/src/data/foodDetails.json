@@ -1,0 +1,130 @@
+{
+  "foodInfo": [
+    {
+      "id": "bolarva",
+      "name": "Bolarva",
+      "category": "Sobremesas",
+      "image": "bolarva.png",
+      "description": "Delicie-se com uma sobremesa inovadora e audaciosa, nossa releitura de um clássico com um toque de alta gastronomia. Apresentamos o Bolarva, uma experiência sensorial que desafia as convenções celebra a biodiversidade",
+      "ingredients": "A cobertura é onde a mágica acontece, larvas de mosca, criadas em abmientes controlados para garantir a pureza e a segurança alimentar, são delicadamente caramelizadas com açúcar, o prato é finalizado com uma leve pitada de sal marinho, que realça os sabores e equlibra a doçura da caramelização, além de um toque de raspas de limão siciliano que adiciona uma nota cítrica e fresca ao conjunto. Servido com uma quenelle de sorvete de baunilha de Madagascar, essa sobremesa promete uma viagem gastronômica inesquecível, onde tradição e inovação se encontram em perfeita.",
+      "price": "34,91"
+    },
+    {
+      "id": "brisadivina",
+      "name": "Brisa Divina",
+      "category": "Sobremesas",
+      "image": "brisa-divina.png",
+      "description": "Uma sobremesa que vai te deixar nas nuvens - literalmente! Prepare-se para uma explosão de sabor celestial com a Brisa Divina. Delicie-se com a suavidade das nuvens e a doçura divina, e quem sabe você não descobre o verdadeiro segredo da felicidade? Shhh, é o nosso segredinho!... é pó. É cocaína. 😑",
+      "ingredients": "Uma sobremesa cuja base tradicional é a clara de ovo, batida com açúcar para criar uma textura leve e aerada. No entanto, o que realmente a distingue é a adição de cocaína em pequenas quantidades, que eleva a experiência gastronômica às alturas. Para complementar essa mistura, são usados cristais de açúcar, que adicionam um toque crocante e intensificam a doçura. O aroma de baunilha é então incorporado para equilibrar os sabores, suavizando a presença do pó branco. Por fim, ela recebe uma polvilhada de pó de pérola, conferindo um brilho iridescente à sobremesa.",
+      "price": "11,90"
+    },
+    {
+      "id": "cesio137",
+      "name": "Césio 137",
+      "category": "Bebidas",
+      "image": "cesio137.png",
+      "description": "",
+      "ingredients": "Diretamente de Goiania com uma magnifica cor brilhante e iridescente, com tonalidades azul, que brilham sob luz negra. Servida em um recipiente especial, um copo de cristal com detalhes que parecem pequenas partículas em movimento. A aparência pode ser acompanhada por efeitos visuais, como névoa seca subindo da bebida e pequenos flashes de luz que parecem irradiar dela. Com certeza uma bebida que tem um sabor único e exótico",
+      "price": "8,60"
+    },
+    {
+      "id": "cogumerda",
+      "name": "Cogumerda",
+      "category": "Lanches",
+      "image": "cogumerda.jpg",
+      "description": "A princípio, a carne do hambúrguer tem um sabor desagradável, quase , e uma textura horrível e seca. No entanto, em uma  surpreendente, seu sabor se transforma de horrível para . A cada mordida, uma explosão de sabores complexos e ricos  o paladar, proporcionando uma experiência quase . Nesse momento, a realidade ao redor começa a -se, enquanto alucinações tomam conta da mente. As cores se , os sons ganham novas dimensões e a percepção se aguça  maneira extraordinária.",
+      "ingredients": "O pão é elaborado a partir do micélio de cogumelos raros, conferindo-lhe uma textura esponjosa e um sabor terroso. A por sua vez, é uma criação misteriosa, originária de cogumelos  em uma floresta secreta, conhecida apenas por nós. Para , são adicionadas folhas de samambaia venenosa, previamente cozidas para remover seu veneno. Os pepinos selecionados  em pântanos escuros, caracterizando-se por seu sabor amargo. E, finalmente, são acrescentadas finas fatias de raiz de famosas por seus efeitos alucinógenos.",
+      "price": "34,65"
+    },
+    {
+      "id": "floritaco",
+      "name": "Floritaco",
+      "category": "Tacos",
+      "image": "floritaco.png",
+      "description": "Descubra uma experiência gastronômica verdadeiramente única com nosso Taco de Tulipa com Flores. Este prato excepcional combina a crocância da massa de taco de milho com uma seleção vibrante de flores comestíveis, tudo envolvido em uma tulipa fresca e exótica. Cada mordida é uma aventura para os sentidos, com uma explosão de cores, sabores e texturas que cativam o paladar.",
+      "ingredients": "Imagine uma base crocante de massa de taco de milho, recheada com uma seleção vibrante de flores comestíveis, como pétalas de rosa, flores de abóbora, brócolis, couve-flor, calêndula, manjericão e capuchinha, tudo isso envolvido em uma tulipa fresca e exótica. Cada mordida é uma aventura para os sentidos, com uma explosão de cores, sabores e texturas que cativam o paladar. Acompanhado de abacate cremoso, queijo feta e um toque picante de molho de pimenta, este taco é uma celebração da culinária criativa e uma experiência que você não vai esquecer. Permita-se explorar novos horizontes culinários e mergulhe nessa jornada gastronômica emocionante conosco.",
+      "price": "25,90"
+    },
+    {
+      "id": "meteorroida",
+      "name": "Meteorróida",
+      "category": "Lanches",
+      "image": "meteorroida.jpg",
+      "description": "Prepare-se para uma experiência culinária transcendental com o nosso Hambúrguer de Meteoróide Celestial, uma criação que desafia as fronteiras do paladar e da imaginação. Este prato extraordinário é uma verdadeira obra de arte gastronômica, ideal para aqueles que desejam explorar sabores cósmicos em um ambiente sofisticado.",
+      "ingredients": "Pão brioche artesanal, macio e ligeiramente doce, polvilhado com sementes de gergelim douradas. Medalhão de proteína galáctica, envolto em uma crosta negra de meteorito ativado, conferindo uma aparência estelar e uma camada adicional de crocância. Geodo de Geléa de algas fluorescentes, uma geléia luminosa feita a partir de algas bioluminescentes espaciais que brilham com um tom azul-esverdeado, evocando a mística do espaço sideral. E por fim poeira de trufas negras, espalhada delicadamente sobre o medalhão, esta poeira de trufas raras eleva o perfil de sabor com suas notas terrosas e aroma inconfundível.",
+      "price": "R$39,90"
+    },
+    {
+      "id": "monks",
+      "name": "Monks",
+      "category": "Bebidas",
+      "image": "monks.png",
+      "description": "",
+      "ingredients": "Monks é uma água extraordinária que transcende as fronteiras comuns da purificação. Ela é cuidadosamente preparada em um mosteiro ancestral, onde monges dedicados canalizam sua devoção espiritual para nutrir não apenas a alma, mas também o corpo. Para a purificação os monges praticam um ritual sagrado, mergulhando em meditação profunda enquanto estão imersos em águas cristalinas. Durante horas a fio, eles permitem que sua energia interior, a pureza de seus corações e a serenidade de suas mentes fluam livremente, infundindo a água com uma essência transcendental. Tranformando em uma água limpida, pura e acima de tudo deliciosa.",
+      "price": "3,30"
+    },
+    {
+      "id": "moscashake",
+      "name": "Moscashake",
+      "category": "Sobremesas",
+      "image": "moscashake.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 9.0
+    },
+    {
+      "id": "ornitoburguer",
+      "name": "Ornitoburguer",
+      "category": "Lanches",
+      "image": "ornitoburguer.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 11.0
+    },
+    {
+      "id": "pizza-do-conhecimento",
+      "name": "Pizza do Conhecimento",
+      "category": "Pizzas",
+      "image": "pizza-conhecimento.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 20.0
+    },
+    {
+      "id": "poopcream",
+      "name": "Poopcream",
+      "category": "Sobremesas",
+      "image": "poopcream.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 7.0
+    },
+    {
+      "id": "sodaceto",
+      "name": "Sodaceto",
+      "category": "Bebidas",
+      "image": "sodaceto.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 5.5
+    },
+    {
+      "id": "tacoco",
+      "name": "Tacoco",
+      "category": "Tacos",
+      "image": "tacoco.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 9.5
+    },
+    {
+      "id": "veganojo",
+      "name": "Veganojo",
+      "category": "Pizzas",
+      "image": "veganojo.png",
+      "description": "texto",
+      "ingredients": "texto",
+      "price": 18.0
+    }
+  ]
+}

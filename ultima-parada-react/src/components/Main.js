@@ -1,5 +1,5 @@
-/* eslint-disable array-callback-return */
 import React from 'react';
+import { Link } from 'react-router-dom';
 import categories from '../data/categories'
 import { highlights } from '../data/food'
 import Button from './Button';
@@ -12,29 +12,27 @@ class Main extends React.Component {
         <div className="main-esq">
           {categories.map((category) => (
             <Button
-              // id={category.id}
               foodCategory={category.url}
               buttonTitle={category.name}
             />
           ))}
-          <a
-            href="menu"
+          <Link
+            to="/menu"
             className="button"
           >
             Veja nosso cardápio
-          </a>
+          </Link>
         </div>
         <div className="main-dir">
           {highlights.map((highlight) => (
             <Highlights
-              // id={highlight.id}
-              foodUrl={highlight.id}
+              foodId={highlight.id}
               foodImage={highlight.image}
               imageAlt={highlight.alt}
             />
           ))}
         </div>
-      </section>
+      </section >
     )
   }
 }

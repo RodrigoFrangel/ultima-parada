@@ -1,18 +1,19 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 class FoodCard extends React.Component {
   render() {
-    const { foodUrl, foodImage, imageAlt } = this.props;
+    const { foodId, foodImage, imageAlt } = this.props;
 
     return (
       <>
-        <a href={`/${foodUrl}`}>
+        <Link to={`/food/${foodId}`}>
           <img
             src={foodImage}
             className="imagem-menu"
             alt={imageAlt}
           />
-        </a>
+        </Link>
       </>
     );
   }

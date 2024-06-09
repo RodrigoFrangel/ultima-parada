@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 import Home from './pages/Home'
 import Menu from './pages/Menu'
 import Category from './pages/Category'
-// import FoodPage from './pages/FoodPage'
+import FoodPage from './pages/FoodPage'
 import NotFound from './pages/NotFound'
 import './App.css';
 
@@ -18,7 +18,7 @@ class App extends React.Component {
           <Route exact path="/" Component={ Home } />
           <Route exact path="/menu" Component={ Menu } />
           <Route exact path="/:id" Component={ Category } />
-          {/* <Route exact path="/:id/:id" Component={ FoodPage } /> */}
+          <Route exact path="/food/:id" Component={ FoodPage } />
           <Route exact path="*" Component={ NotFound } />
         </Routes>
         <Footer />

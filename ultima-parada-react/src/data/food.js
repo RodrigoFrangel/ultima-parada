@@ -1,114 +1,114 @@
-import CesioUrl from '../assets/images/food/cesio137.png';
-import BolarvaUrl from '../assets/images/food/bolarva.png';
-import BrisaDivinaUrl from '../assets/images/food/brisa-divina.png';
-import CogumerdaUrl from '../assets/images/food/cogumerda.jpg';
-import FloritacoUrl from '../assets/images/food/floritaco.png';
-import MeteorroidaUrl from '../assets/images/food/meteorroida.jpg';
-import MonksUrl from '../assets/images/food/monks.png';
-import MoscashakeUrl from '../assets/images/food/moscashake.png';
-import OrnitoburguerUrl from '../assets/images/food/ornitoburguer.png';
-import PizzaDoConhecimentoUrl from '../assets/images/food/pizza-conhecimento.png';
-import PoopcreamUrl from '../assets/images/food/poopcream.png';
-import SodacetoUrl from '../assets/images/food/sodaceto.png';
-import TacocoUrl from '../assets/images/food/tacoco.png';
-import VeganojoUrl from '../assets/images/food/veganojo.png';
+import CesioImage from '../assets/images/food/cesio137.png';
+import BolarvaImage from '../assets/images/food/bolarva.png';
+import BrisaDivinaImage from '../assets/images/food/brisa-divina.png';
+import CogumerdaImage from '../assets/images/food/cogumerda.jpg';
+import FloritacoImage from '../assets/images/food/floritaco.png';
+import MeteorroidaImage from '../assets/images/food/meteorroida.jpg';
+import MonksImage from '../assets/images/food/monks.png';
+import MoscashakeImage from '../assets/images/food/moscashake.png';
+import OrnitoburguerImage from '../assets/images/food/ornitoburguer.png';
+import PizzaDoConhecimentoImage from '../assets/images/food/pizza-conhecimento.png';
+import PoopcreamImage from '../assets/images/food/poopcream.png';
+import SodacetoImage from '../assets/images/food/sodaceto.png';
+import TacocoImage from '../assets/images/food/tacoco.png';
+import VeganojoImage from '../assets/images/food/veganojo.png';
 
 const food = [
   {
     id: "cesio137",
     name: "Césio 137",
-    image: CesioUrl,
+    image: CesioImage,
     alt: "Imagem do Césio 137",
     category: "Bebidas",
   },
   {
     id: "bolarva",
     name: "Bolarva",
-    image: BolarvaUrl,
+    image: BolarvaImage,
     alt: "Imagem do Bolarva",
     category: "Sobremesas",
   },
   {
     id: "brisadivina",
     name: "Brisa Divina",
-    image: BrisaDivinaUrl,
+    image: BrisaDivinaImage,
     alt: "Imagem da Brisa Divina",
     category: "Sobremesas",
   },
   {
     id: "cogumerda",
     name: "Cogumerda",
-    image: CogumerdaUrl,
+    image: CogumerdaImage,
     alt: "Imagem do Cogumerda",
     category: "Lanches",
   },
   {
     id: "floritaco",
     name: "Floritaco",
-    image: FloritacoUrl,
+    image: FloritacoImage,
     alt: "Imagem do Floritaco",
     category: "Tacos",
   },
   {
     id: "meteorroida",
     name: "Meteorróida",
-    image: MeteorroidaUrl,
+    image: MeteorroidaImage,
     alt: "Imagem do Meteorróida",
     category: "Lanches",
   },
   {
     id: "cesio137",
     name: "Monks",
-    image: MonksUrl,
+    image: MonksImage,
     alt: "Imagem da Monks",
     category: "Bebidas",
   },
   {
     id: "cesio137",
     name: "Moscashake",
-    image: MoscashakeUrl,
+    image: MoscashakeImage,
     alt: "Imagem do Moscashake",
     category: "Sobremesas",
   },
   {
     id: "cesio137",
     name: "Ornitoburguer",
-    image: OrnitoburguerUrl,
+    image: OrnitoburguerImage,
     alt: "Imagem do Ornitoburguer",
     category: "Lanches",
   },
   {
     id: "cesio137",
     name: "Pizza do Conhecimento",
-    image: PizzaDoConhecimentoUrl,
+    image: PizzaDoConhecimentoImage,
     alt: "Imagem da Pizza do Conhecimento",
     category: "Pizzas",
   },
   {
     id: "cesio137",
     name: "Poopcream",
-    image: PoopcreamUrl,
+    image: PoopcreamImage,
     alt: "Imagem do Poopcream",
     category: "Sobremesas",
   },
   {
     id: "cesio137",
     name: "Sodaceto",
-    image: SodacetoUrl,
+    image: SodacetoImage,
     alt: "Imagem da Sodaceto",
     category: "Bebidas",
   },
   {
     id: "cesio137",
     name: "Tacoco",
-    image: TacocoUrl,
+    image: TacocoImage,
     alt: "Imagem do Tacoco",
     category: "Tacos",
   },
   {
     id: "cesio137",
     name: "Veganojo",
-    image: VeganojoUrl,
+    image: VeganojoImage,
     alt: "Imagem do Veganojo",
     category: "Pizzas",
   },
@@ -116,27 +116,33 @@ const food = [
 
 const highlights = [
   {
-    image: CesioUrl,
+    id: "cesio137",
+    image: CesioImage,
     alt: "Imagem do Césio 137"
   },
   {
-    image: BolarvaUrl,
+    id: "bolarva",
+    image: BolarvaImage,
     alt: "Imagem do Bolarva"
   },
   {
-    image: BrisaDivinaUrl,
+    id: "brisadivina",
+    image: BrisaDivinaImage,
     alt: "Imagem da Brisa Divina"
   },
   {
-    image: CogumerdaUrl,
+    id: "cogumerda",
+    image: CogumerdaImage,
     alt: "Imagem do Cogumerda"
   },
   {
-    image: FloritacoUrl,
+    id: "floritaco",
+    image: FloritacoImage,
     alt: "Imagem do Floritaco"
   },
   {
-    image: MeteorroidaUrl,
+    id: "meteorroida",
+    image: MeteorroidaImage,
     alt: "Imagem do Meteorróida"
   },
 ]
