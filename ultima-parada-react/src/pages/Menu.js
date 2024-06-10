@@ -6,7 +6,7 @@ class Menu extends React.Component {
     return (
       <section id="menu">
         <h1>Cardápio</h1>
-        <section class="menu-food">
+        <section className="menu-food">
           <AllItems />
         </section>
       </section>

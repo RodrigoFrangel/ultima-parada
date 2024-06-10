@@ -1,5 +1,5 @@
 import React from 'react';
-import foodData from '../data/foodDetails.json';
+import foodData from '../data/foodData.json';
 
 function showDetails() {
   const currentPath = window.location.pathname.slice(6); // Remove "food/" do path
